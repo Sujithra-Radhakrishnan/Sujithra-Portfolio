@@ -12,7 +12,7 @@ body{
   color: rgb(0, 0, 0);
 }
 .banner {
-  background-image: url(/Portfolio/Img/banner.png);
+  background-image: url(../Img/banner.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 180px 0;
