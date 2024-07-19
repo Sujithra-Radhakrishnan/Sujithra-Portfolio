@@ -39,7 +39,29 @@ section {
   width: 100%;
 }
 .contact {
-  background-image: url(/Portfolio/Img/contact.png);
+  background-image: url(../Img/contact.png);
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+input{
+	width: 100%;
+	padding: 10px;
+  border-radius: 10px;
+}
+textarea{
+	width: 100%;
+	padding: 10px;
+  border-radius: 10px;
+}
+#submit{
+	border: none;
+	background-color: orangered;
+	color: white;
+	width: 200px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#submit:hover{
+	background-color: #333333;
 }
